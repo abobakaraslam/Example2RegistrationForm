@@ -101,7 +101,7 @@ function Register() {
                         Confirm password
                       </label>
                       <input
-                        type="confirm-password"
+                        type="password"
                         name="confirm-password"
                         id="confirm-password"
                         placeholder="••••••••"
